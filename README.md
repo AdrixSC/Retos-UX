@@ -48,8 +48,15 @@ Los elementos de navegación son los que llevan al usuario de un punta "A" a un 
 
 En GitHub podemos encontrar que cuenta con los siguientes elementos:
 
-Suplementaria, ya que al momento de abrir la página, lo primero que se ve es la parte para que el usuario acceda su cuenta, o bien para que el usuario se registre.
+Global, pues tiene un menú al cual el usuario puede acceder en la parte posterior de la página.
 
+Local, ya que permite al usuario ver en qué parte de la página se encuentra localizado, al tener señalado con un distintivo la barra del menú en la que se encuentra.
+
+Contextual, ya que en algunas secciones de la página, el usario puede encontrar enlaces con el tema realcionado al que está visualizando en ese momento.
+
+Inline, pues contiene links de referencia en varias secciones de la página, que llevan al usuario a otras partes de la misma página de GitHub.
+
+CONCLUSIÓN: Podemos darnos cuenta que es una página diseñada para que el usuario pueda interactur en el sitio de varias maneras posibles, al tener estos principales tipos de navegación, pensda para que la experiencia del usuario sea la mejor, y pueda sentir un trayecto fácil de transitar entre cada punto de la página. Al ser una página con muchos enlaces, puede ser complicado para el usuario volver a encontrar el camino, sin embargo gracias a la construcción de una estructura adecuada, en GitHub no tendría este tipo de problema el usuario.
 
 
 ## 3. Crea un sketch para la herramienta del dashboard de Laboratoria
