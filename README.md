@@ -78,4 +78,4 @@ Haz un sketch del dashboard de Laboratoria.
 
 Se incluye imagen del sketch
 
- ![Diagrama_de_flujo](sketch-reto-laboratoria.png)
+ ![Diagrama_de_flujo](sketch-reto3.png)
