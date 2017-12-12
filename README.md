@@ -75,3 +75,7 @@ Haz un sketch del dashboard de Laboratoria.
 
 -Ten en cuenta los elementos de navegación en tus sketches.
 -Utiliza títulos y textos reales.
+
+Se incluye imagen del sketch
+
+ ![Diagrama_de_flujo](sketch-reto-laboratoria.png)
