@@ -48,6 +48,8 @@ Los elementos de navegación son los que llevan al usuario de un punta "A" a un 
 
 En GitHub podemos encontrar que cuenta con los siguientes elementos:
 
+Suplementaria, en la primer visualización de la página, vemos el formulario para que el usuario haga su registro a esta página.
+
 Global, pues tiene un menú al cual el usuario puede acceder en la parte posterior de la página.
 
 Local, ya que permite al usuario ver en qué parte de la página se encuentra localizado, al tener señalado con un distintivo la barra del menú en la que se encuentra.
